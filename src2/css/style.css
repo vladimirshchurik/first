@@ -1,0 +1,56 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+.promo {
+	min-height: 800px;
+	background: url('../img/Main bg.jpg') 50% 50% / cover no-repeat;
+	padding: 22px 0 53px 0;
+}
+.container {
+	max-width: 1200px;
+	min-height: 800px;
+	margin: 0 auto;
+}
+
+.title {
+	width: 900;
+	text-transform: uppercase;
+	text-align: center;
+}
+.title_colored {
+	color: #F9BF3B;
+	font-size: 41px;
+	line-height: 41px;
+}
+
+.title_big {
+	color: #FFFFFF;
+	font-size: 80px;
+	line-height: 80px;
+}
+
+.logo__img  {
+	display: block;
+	margin: 0 auto;
+}
+
+.logo__text {
+	margin-top: 13px;
+	text-align: center;
+	font-size: 16px;
+	line-height: normal;
+	font-style: normal;
+	font-weight: 500;
+	text-transform: uppercase;
+	color: aliceblue;
+}
+
+.promo h1 {
+	margin-top: 52px;
+}
+
+.promo h2 {
+	margin-top: 12px;
+}
